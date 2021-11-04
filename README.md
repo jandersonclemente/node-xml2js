@@ -1,6 +1,10 @@
 This is a lightly modified version of the original module. In this version, if you set the parameter cdata for true, all the fields will be wrapped:
 
+```javascript
 xml2js.Builder({cdata : true})
+```
+
+Forked from https://github.com/brunovu20/node-xml2js
 
 node-xml2js
 ===========
